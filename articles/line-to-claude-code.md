@@ -1,5 +1,5 @@
 ---
-title: "スマホの LINE から Claude Code を遠隔操作できるようにした"
+title: "LINE から Claude Code を遠隔操作できるようにした"
 emoji: "📱"
 type: "tech"
 topics: ["claudecode", "line", "mcp", "typescript", "bun"]
