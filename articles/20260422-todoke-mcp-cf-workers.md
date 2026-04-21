@@ -16,9 +16,7 @@ published: true
 
 ## 背景
 
-todoke という Web Push 通知の SaaS を個人開発している。AI エージェントが直接 Push 通知を送れるよう、MCP サーバーを実装することにした。
-
-バックエンドは Cloudflare Workers で組んでいる。Workers 上で MCP サーバーを動かそうと `@modelcontextprotocol/sdk` をインストールしたところ、即座に壁にぶつかった。
+新しいプロダクトを作っている。バックエンドは Cloudflare Workers で組んでおり、MCP サーバーを実装しようと `@modelcontextprotocol/sdk` をインストールしたところ、即座に壁にぶつかった。
 
 ---
 
