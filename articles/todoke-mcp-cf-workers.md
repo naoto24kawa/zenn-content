@@ -3,7 +3,7 @@ title: "MCP SDK (@modelcontextprotocol/sdk) が Cloudflare Workers で動かな�
 emoji: "🔌"
 type: "tech"
 topics: ["cloudflare", "mcp", "typescript", "個人開発"]
-published: false
+published: true
 ---
 
 ## 先に結論
