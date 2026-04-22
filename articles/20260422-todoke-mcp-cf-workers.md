@@ -1,5 +1,5 @@
 ---
-title: "@modelcontextprotocol/sdk が Cloudflare Workers で動かない理由と JSON-RPC 2.0 手書き実装"
+title: "MCP SDK (@modelcontextprotocol/sdk) が Cloudflare Workers で動かない理由と JSON-RPC 2.0 手書き実装"
 emoji: "🔌"
 type: "tech"
 topics: ["cloudflare", "mcp", "typescript", "個人開発"]
