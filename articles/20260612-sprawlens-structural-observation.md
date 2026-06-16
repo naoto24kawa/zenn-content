@@ -6,7 +6,7 @@ topics: ["typescript", "ai", "claudecode", "個人開発"]
 published: true
 ---
 
-mizchi さんが [sprawlens](https://github.com/mizchi/sprawlens) というツールを公開していた。Git 履歴からコミットごとの import グラフをスナップショットとして集めて、コードベースの「構造の成長」を観測するツールらしい。
+[mizchi さん](https://x.com/mizchi)が [sprawlens](https://github.com/mizchi/sprawlens) というツールを公開していた。Git 履歴からコミットごとの import グラフをスナップショットとして集めて、コードベースの「構造の成長」を観測するツールらしい。
 
 目を引いたのは、AI 関与コミットをマーキングする機能が最初から入っていたこと。「AI にコードを書かせるようになって、リポジトリがどう太っていくか」を測ろうとしている道具に見えた。自分も日常的に Claude Code にコードを書かせているので、これは他人事ではない。
 
